@@ -15,8 +15,6 @@ w.php
 my.php
 WSOo.php
 x.php
-trknish.php
-index.php
 wso.php
 wp-content/plugins/akismet/akismet.php
 images/stories/w.php
