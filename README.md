@@ -14,9 +14,15 @@ Prerequisites:
 
 1. Put your websites in `websites.txt`
 
-2. Install requests `pip install -r requirements.txt`
+2. Install requests
+```code
+pip install -r requirements.txt
+```
 
-3. Run the script `$ python3 main.py`
+4. Run the script
+```code
+python3 main.py
+```
 
 ## Contribution
 Please feel free to fork the repository and make pull requests.
