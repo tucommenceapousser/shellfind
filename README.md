@@ -27,4 +27,4 @@ python3 main.py
 ## Contribution
 Please feel free to fork the repository and make pull requests.
 
-Made by TRHACKNON
+Made by `TRHACKNON`
