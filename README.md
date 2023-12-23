@@ -28,4 +28,3 @@ python3 main.py
 Please feel free to fork the repository and make pull requests.
 
 Made by ``TRHACKNON``
-<span style="color:green"><i>tight</i></span>
