@@ -16,9 +16,9 @@ Prerequisites:
 
 2. Install requests `pip3 install requests`
 
-3. Run the script `$ python3 shellfinder.py`
+3. Run the script `$ python3 main.py`
 
 ## Contribution
 Please feel free to fork the repository and make pull requests.
 
-Made with love as always.
+Made by TRHACKNON

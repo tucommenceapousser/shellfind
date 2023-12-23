@@ -1,0 +1,4 @@
+[32m[+] SUCCESS:[0m Shell found at: https://www.oliverjanich.de/index.php
+[32m[+] SUCCESS:[0m Shell found at: https://qanon-france.com/index.php
+[32m[+] SUCCESS:[0m Shell found at: https://qanon-france.com/wp-content/plugins/google-sitemap-generator/sitemap-core.php#
+[32m[+] SUCCESS:[0m Shell found at: https://qanon-france.com/wp-content/plugins/google-sitemap-generator/sitemap-core.php#
